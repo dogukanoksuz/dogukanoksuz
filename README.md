@@ -9,3 +9,7 @@ Yıllardır bilgisayara olan merakım beni bu maratona çıkardı. Okuduğum bö
 **CV (Özgeçmişim):**  
 [Türkçe CV](https://dogukan.dev/documents/1/5e416b5c63d2a.pdf)  
 [English Resume](https://dogukan.dev/documents/1/5e416b78e14b4.pdf)
+
+[![Dogukan's github stats](https://github-readme-stats.vercel.app/api?username=dogukanoksuz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dogukanoksuz)](https://github.com/anuraghazra/github-readme-stats)
+
