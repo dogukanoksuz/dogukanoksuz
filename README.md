@@ -7,8 +7,8 @@ Yıllardır bilgisayara olan merakım beni bu maratona çıkardı. Okuduğum bö
 Çalışma tecrübesi olarak ise Temmuz-Ekim 2018 tarihleri aralığında Hitit Transfer'de  **web developer**/**IT**  olarak, 8 Temmuz - 8 Ağustos 2019 tarihleri arasında ise Creentech'de  **stajyer**  olarak görev yaptım. Aktif olarak web iş alımına açığım, web işleriniz için iletişim bölümünden bana ulaşabilirsiniz.
 
 **CV (Özgeçmişim):**  
-[Türkçe CV](https://dogukan.dev/documents/1/5e416b5c63d2a.pdf)  
-[English Resume](https://dogukan.dev/documents/1/5e416b78e14b4.pdf)
+[Türkçe CV](https://dogukan.dev/documents/1/6027af712fd01.pdf)  
+[English Resume](https://dogukan.dev/documents/1/Do%C4%9Fukan's%20Resume.pdf)
 
 <a href="https://dogukan.dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukanoksuz&layout=compact" />
