@@ -1,15 +1,37 @@
-### Ben kimim?
+## Hey, dogukanoksuz here! :wave: <img align="right" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dogukanoksuz.dogukanoksuz">
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dogukanoksuz&theme=dark&show_icons=true&hide=contribs">](https://metrics.lecoq.io/dogukanoksuz?template=classic)
 
-Merhaba, Ben  **Doğukan Öksüz**. 22 yaşında bir  **web developer**im. Giresunluyum ancak şu an eğitim sebebi ile Trabzon'da ikamet ediyorum. Karadeniz Teknik Üniversitesinde  **Bilgisayar Mühendisliği**  eğitimi görüyorum.
+I'm Dogukan Oksuz, a backend developer from Turkey. Working at HAVELSAN Aciklab as a fullstack developer.
 
-Yıllardır bilgisayara olan merakım beni bu maratona çıkardı. Okuduğum bölümün etkisiyle de programlama dillerinde büyük bir ilerleme kaydederek arkayüz işlerini de yapmaya başladım. Şu anda fullstack (arayüz + arkayüz) web developer olarak çalışmaktayım. 
+-   :hammer_and_pick: PHP, Javascript, Python, Tailwind, Laravel, NodeJS
+-   :package: Building [Liman](https://github.com/limanmys) right now
+-   :pencil2: Arch Linux on WSL / fish / vscode
 
-Çalışma tecrübesi olarak ise Temmuz-Ekim 2018 tarihleri aralığında Hitit Transfer'de  **web developer**/**IT**  olarak, 8 Temmuz - 8 Ağustos 2019 tarihleri arasında ise Creentech'de  **stajyer**  olarak görev yaptım. Şu anda aktif olarak **HAVELSAN** şirketinde **aday fullstack developer** olarak görev yapmaktayım.
+<br>
 
-**CV (Özgeçmişim):**  
-[Türkçe CV](https://dogukan.dev/documents/1/cv_30082021_tr.pdf)  
-[English Resume](https://dogukan.dev/documents/1/Do%C4%9Fukan's%20Resume.pdf)
+---
 
-<a href="https://dogukan.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dogukanoksuz&layout=compact" />
-</a>
+<h3 align="center">Find me on</h3>
+<p align="center">
+<a 
+href="https://twitter.com/lildivergent" target="_blank"><img alt="Twitter" 
+src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" /></a> 
+<a 
+href="https://dogukan.dev" target="_blank"><img alt="Dogukan.dev" 
+src="https://img.shields.io/badge/Website-%2312100E?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
+<a 
+href="https://www.linkedin.com/in/dogukanoksuz" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
+</p>
+
+---
+
+<h3 align="center">Curriculum Vitae</h3> 
+<p align="center">
+  <a 
+href="https://dogukan.dev/documents/1/cv_30082021_tr.pdf" target="_blank"><img alt="Turkish" 
+src="https://img.shields.io/badge/Turkish-%2312100E?style=for-the-badge" /></a> 
+  <a 
+href="https://dogukan.dev/documents/1/Do%C4%9Fukan's%20Resume.pdf" target="_blank"><img alt="English" 
+src="https://img.shields.io/badge/English-%2312100E?style=for-the-badge" /></a>
+</p>
