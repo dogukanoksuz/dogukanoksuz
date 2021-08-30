@@ -7,7 +7,7 @@ Yıllardır bilgisayara olan merakım beni bu maratona çıkardı. Okuduğum bö
 Çalışma tecrübesi olarak ise Temmuz-Ekim 2018 tarihleri aralığında Hitit Transfer'de  **web developer**/**IT**  olarak, 8 Temmuz - 8 Ağustos 2019 tarihleri arasında ise Creentech'de  **stajyer**  olarak görev yaptım. Şu anda aktif olarak **HAVELSAN** şirketinde **aday fullstack developer** olarak görev yapmaktayım.
 
 **CV (Özgeçmişim):**  
-[Türkçe CV](https://dogukan.dev/documents/1/6027af712fd01.pdf)  
+[Türkçe CV](https://dogukan.dev/documents/1/cv_30082021_tr.pdf)  
 [English Resume](https://dogukan.dev/documents/1/Do%C4%9Fukan's%20Resume.pdf)
 
 <a href="https://dogukan.dev">
