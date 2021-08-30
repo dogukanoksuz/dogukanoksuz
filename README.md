@@ -6,23 +6,9 @@ I'm Dogukan Oksuz, a backend developer from Turkey. Working at HAVELSAN Aciklab 
 -   :hammer_and_pick: PHP, Javascript, Python, Tailwind, Laravel, NodeJS
 -   :package: Building [Liman](https://github.com/limanmys) right now
 -   :pencil2: Arch Linux on WSL / fish / vscode
-
-<br>
-
----
-
-<h3 align="center">Find me on</h3>
-<p align="center">
-<a 
-href="https://twitter.com/lildivergent" target="_blank"><img alt="Twitter" 
-src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" /></a> 
-<a 
-href="https://dogukan.dev" target="_blank"><img alt="Dogukan.dev" 
-src="https://img.shields.io/badge/Website-%2312100E?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
-<a 
-href="https://www.linkedin.com/in/dogukanoksuz" target="_blank"><img alt="LinkedIn" 
-src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
-</p>
+-   :globe_with_meridians: Find me on <a 
+href="https://dogukan.dev" target="_blank">Dogukan.dev</a>, <a 
+href="https://www.linkedin.com/in/dogukanoksuz" target="_blank">LinkedIn</a> 
 
 ---
 
