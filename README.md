@@ -3,7 +3,7 @@
 
 I'm Dogukan Oksuz, a backend developer from Turkey. Working at HAVELSAN Aciklab as a fullstack developer.
 
--   :hammer_and_pick: PHP, Javascript, Python, Tailwind, Laravel, NodeJS
+-   :hammer_and_pick: PHP, JS, Python, Tailwind, Laravel, NodeJS, Golang
 -   :package: Building [Liman](https://github.com/limanmys) right now
 -   :pencil2: Arch Linux on WSL / fish / vscode
 -   :globe_with_meridians: Find me on <a 
