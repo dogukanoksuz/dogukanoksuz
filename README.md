@@ -1,9 +1,9 @@
 ## Hey, dogukanoksuz here! :wave: <img align="right" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dogukanoksuz.dogukanoksuz">
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dogukanoksuz&theme=dark&show_icons=true&hide=contribs">](https://metrics.lecoq.io/dogukanoksuz?template=classic)
 
-I'm Dogukan Oksuz, a backend developer from Turkey. Working at HAVELSAN Aciklab as a fullstack developer.
+I'm Dogukan Oksuz, a backend developer from Turkey. Working at HAVELSAN as a software developer.
 
--   :hammer_and_pick: PHP, JS, Python, Tailwind, Laravel, NodeJS, Golang
+-   :hammer_and_pick: PHP, JS, Python, Tailwind, Laravel, NodeJS, Golang, VueJS
 -   :package: Building [Liman](https://github.com/limanmys) right now
 -   :pencil2: Arch Linux on WSL / fish / vscode
 -   :globe_with_meridians: Find me on <a 
